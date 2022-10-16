@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/NivaldoFarias/drivenpass-api">
+  <a >
     <img src="https://user-images.githubusercontent.com/90518458/186154911-664bcb10-386e-4e4e-b671-bd2238fad44b.png" alt="DrivenOps Logo" width="120">
   </a>
 
@@ -11,9 +11,7 @@
   <p>
     DevOps Management Project <strong>{23ʳᵈ}</strong>
     <br />
-    <a href="https://github.com/NivaldoFarias/drivenops/blob/main/docker-compose.yml"><strong>Browse Docker code»</strong></a>
-    -
-    <a href="https://github.com/NivaldoFarias/drivenops/tree/main/nginx"><strong>Browse NGINX code»</strong></a>
+
 </div>
 
 <div align="center">
